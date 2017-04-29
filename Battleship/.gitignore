@@ -3,7 +3,10 @@ EchoClient.class
 EchoServer.class
 
 # macOS Hidden
-.DS_Store
+.DS_Store/
 
 # VSCode files
 .vscode
+
+# IntelliJ files
+.idea
