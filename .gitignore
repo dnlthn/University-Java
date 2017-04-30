@@ -1,0 +1,12 @@
+# Compiled Battleship Files
+./Battleship/EchoClient.class
+./Battleship/EchoServer.class
+
+# macOS Hidden
+.DS_Store/
+
+# VSCode files
+.vscode
+
+# IntelliJ files
+.idea
