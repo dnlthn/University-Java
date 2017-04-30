@@ -1,3 +1,9 @@
+/* 
+	Provided code for assignment.
+	Currently untouched.
+	Will be completely changed.
+*/
+
 import java.net.*;
 import java.io.*;
 
